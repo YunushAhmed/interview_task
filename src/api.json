@@ -1,0 +1,1413 @@
+{
+  "self": "https://www.drupal.org/api-d7/comment",
+  "first": "https://www.drupal.org/api-d7/comment?page=0",
+  "last": "https://www.drupal.org/api-d7/comment?page=199740",
+  "next": "https://www.drupal.org/api-d7/comment?page=1",
+  "list": [
+    {
+      "comment_body": {
+        "value": "\u003Cp\u003EWe\u0027re currently working on Access \u002795 integration. But Access \u002797 will be one of the first features when we start work on 2.0!!!\u003C/p\u003E",
+        "format": "1"
+      },
+      "field_attribute_contribution_to": [],
+      "field_for_customer": [],
+      "field_attribute_as_volunteer": [],
+      "cid": "5076802",
+      "name": "JohnAlbin",
+      "homepage": "",
+      "subject": "",
+      "url": "https://www.drupal.org/project/vaporware/issues/1166082#comment-5076802",
+      "edit_url": "https://www.drupal.org/comment/edit/5076802",
+      "created": "876044700",
+      "node": {
+        "uri": "https://www.drupal.org/api-d7/node/1166082",
+        "id": "1166082",
+        "resource": "node"
+      },
+      "author": {
+        "uri": "https://www.drupal.org/api-d7/user/32095",
+        "id": "32095",
+        "resource": "user"
+      },
+      "feeds_item_guid": null,
+      "feeds_item_url": null,
+      "feed_nid": null
+    },
+    {
+      "comment_body": {
+        "value": "\u003Cp\u003EPHP didn\u0027t like a reference to an undefined object under an array and crashed. Fixed it and works fine again.\u003C/p\u003E",
+        "format": "1"
+      },
+      "field_attribute_contribution_to": [],
+      "field_for_customer": [],
+      "field_attribute_as_volunteer": [],
+      "cid": "287017",
+      "name": "",
+      "homepage": "",
+      "subject": "",
+      "url": "https://www.drupal.org/project/drupal/issues/6#comment-287017",
+      "edit_url": "https://www.drupal.org/comment/edit/287017",
+      "created": "1008599295",
+      "node": {
+        "uri": "https://www.drupal.org/api-d7/node/6",
+        "id": "6",
+        "resource": "node"
+      },
+      "feeds_item_guid": null,
+      "feeds_item_url": null,
+      "feed_nid": null
+    },
+    {
+      "comment_body": {
+        "value": "\u003Cp\u003EFixed.\u003C/p\u003E",
+        "format": "1"
+      },
+      "field_attribute_contribution_to": [],
+      "field_for_customer": [],
+      "field_attribute_as_volunteer": [],
+      "cid": "287019",
+      "name": "",
+      "homepage": "",
+      "subject": "",
+      "url": "https://www.drupal.org/project/drupal/issues/7#comment-287019",
+      "edit_url": "https://www.drupal.org/comment/edit/287019",
+      "created": "1008601237",
+      "node": {
+        "uri": "https://www.drupal.org/api-d7/node/7",
+        "id": "7",
+        "resource": "node"
+      },
+      "feeds_item_guid": null,
+      "feeds_item_url": null,
+      "feed_nid": null
+    },
+    {
+      "comment_body": {
+        "value": "\u003Cp\u003EThis is a very useful function.  Maybe it should also make the post private in the blog.  In other words, maybe the post would only be visible to the author.  Or maybe these are two different options.  \u003C/p\u003E\n\u003Cp\u003EI could see using this as a way to save a draft post, or if I want to remind myself of some things within the context of the host site.\u003C/p\u003E\n\u003Cp\u003E- Joe\u003C/p\u003E\n\u003Cp\u003E\u0026lt;!-- Feature creep... it\u0027s a healthy problem to have. --\u0026gt;\u003C/p\u003E",
+        "format": "1"
+      },
+      "field_attribute_contribution_to": [],
+      "field_for_customer": [],
+      "field_attribute_as_volunteer": [],
+      "cid": "287090",
+      "name": "j0e@www.drop.org",
+      "homepage": "",
+      "subject": "",
+      "url": "https://www.drupal.org/project/drupal/issues/9#comment-287090",
+      "edit_url": "https://www.drupal.org/comment/edit/287090",
+      "created": "1008635513",
+      "node": {
+        "uri": "https://www.drupal.org/api-d7/node/9",
+        "id": "9",
+        "resource": "node"
+      },
+      "author": {
+        "uri": "https://www.drupal.org/api-d7/user/15",
+        "id": "15",
+        "resource": "user"
+      },
+      "feeds_item_guid": null,
+      "feeds_item_url": null,
+      "feed_nid": null
+    },
+    {
+      "comment_body": {
+        "value": "\u003Cp\u003Eax convinced me by referring to user privacy ... i\u0027ve assigned this one to myself.\u003C/p\u003E",
+        "format": "1"
+      },
+      "field_attribute_contribution_to": [],
+      "field_for_customer": [],
+      "field_attribute_as_volunteer": [],
+      "cid": "287021",
+      "name": "moshe weitzman",
+      "homepage": "",
+      "subject": "",
+      "url": "https://www.drupal.org/project/drupal/issues/8#comment-287021",
+      "edit_url": "https://www.drupal.org/comment/edit/287021",
+      "created": "1008653348",
+      "node": {
+        "uri": "https://www.drupal.org/api-d7/node/8",
+        "id": "8",
+        "resource": "node"
+      },
+      "author": {
+        "uri": "https://www.drupal.org/api-d7/user/23",
+        "id": "23",
+        "resource": "user"
+      },
+      "feeds_item_guid": null,
+      "feeds_item_url": null,
+      "feed_nid": null
+    },
+    {
+      "comment_body": {
+        "value": "\u003Cp\u003Enot a bug, i guess - just the admin not having created a forum yet.\u003C/p\u003E",
+        "format": "1"
+      },
+      "field_attribute_contribution_to": [],
+      "field_for_customer": [],
+      "field_attribute_as_volunteer": [],
+      "cid": "287094",
+      "name": "ax",
+      "homepage": "",
+      "subject": "",
+      "url": "https://www.drupal.org/project/drupal/issues/11#comment-287094",
+      "edit_url": "https://www.drupal.org/comment/edit/287094",
+      "created": "1008677001",
+      "node": {
+        "uri": "https://www.drupal.org/api-d7/node/11",
+        "id": "11",
+        "resource": "node"
+      },
+      "author": {
+        "uri": "https://www.drupal.org/api-d7/user/8",
+        "id": "8",
+        "resource": "user"
+      },
+      "feeds_item_guid": null,
+      "feeds_item_url": null,
+      "feed_nid": null
+    },
+    {
+      "comment_body": {
+        "value": "\u003Cp\u003EI think I fixed it.  It was a typo: $edit[\u0022uid\u0022] should have read $node-\u0026gt;uid.\u003C/p\u003E",
+        "format": "1"
+      },
+      "field_attribute_contribution_to": [],
+      "field_for_customer": [],
+      "field_attribute_as_volunteer": [],
+      "cid": "287097",
+      "name": "Dries",
+      "homepage": "",
+      "subject": "",
+      "url": "https://www.drupal.org/project/drupal/issues/16#comment-287097",
+      "edit_url": "https://www.drupal.org/comment/edit/287097",
+      "created": "1008709273",
+      "node": {
+        "uri": "https://www.drupal.org/api-d7/node/16",
+        "id": "16",
+        "resource": "node"
+      },
+      "author": {
+        "uri": "https://www.drupal.org/api-d7/user/1",
+        "id": "1",
+        "resource": "user"
+      },
+      "feeds_item_guid": null,
+      "feeds_item_url": null,
+      "feed_nid": null
+    },
+    {
+      "comment_body": {
+        "value": "\u003Cp\u003EFixed in CVS.\u003C/p\u003E",
+        "format": "1"
+      },
+      "field_attribute_contribution_to": [],
+      "field_for_customer": [],
+      "field_attribute_as_volunteer": [],
+      "cid": "287095",
+      "name": "",
+      "homepage": "",
+      "subject": "",
+      "url": "https://www.drupal.org/project/drupal/issues/15#comment-287095",
+      "edit_url": "https://www.drupal.org/comment/edit/287095",
+      "created": "1008862665",
+      "node": {
+        "uri": "https://www.drupal.org/api-d7/node/15",
+        "id": "15",
+        "resource": "node"
+      },
+      "feeds_item_guid": null,
+      "feeds_item_url": null,
+      "feed_nid": null
+    },
+    {
+      "comment_body": {
+        "value": "\u003Cp\u003EMarking as fixed. Ax: if this fixed it please close the bug.\u003C/p\u003E",
+        "format": "1"
+      },
+      "field_attribute_contribution_to": [],
+      "field_for_customer": [],
+      "field_attribute_as_volunteer": [],
+      "cid": "287098",
+      "name": "",
+      "homepage": "",
+      "subject": "",
+      "url": "https://www.drupal.org/project/drupal/issues/16#comment-287098",
+      "edit_url": "https://www.drupal.org/comment/edit/287098",
+      "created": "1008862728",
+      "node": {
+        "uri": "https://www.drupal.org/api-d7/node/16",
+        "id": "16",
+        "resource": "node"
+      },
+      "feeds_item_guid": null,
+      "feeds_item_url": null,
+      "feed_nid": null
+    },
+    {
+      "comment_body": {
+        "value": "\u003Cp\u003Ethis fixes the \u0022Submitted by anonymous\u0022 issue - but the missing link(s) remain. i don\u0027t know if /you/ consider it a bug that the preview shows different (less) links than the actual, finished node (in the example of a blog: preview shows only \u0022update this blog\u0022; actual node - node.php?id=X - shows \u0022update this blog\u0022 and \u0022add new comment\u0022) - i /do/ consider it a bug, so i leave this open.\u003C/p\u003E\n\u003Cp\u003Enote: other node types may have more, different and more \u0022important\u0022 links than blogs.\u003C/p\u003E\n\u003Cp\u003Efeel free to close this bug if you dont agree. or should this be made a separate report?\u003C/p\u003E",
+        "format": "1"
+      },
+      "field_attribute_contribution_to": [],
+      "field_for_customer": [],
+      "field_attribute_as_volunteer": [],
+      "cid": "287099",
+      "name": "ax",
+      "homepage": "",
+      "subject": "",
+      "url": "https://www.drupal.org/project/drupal/issues/16#comment-287099",
+      "edit_url": "https://www.drupal.org/comment/edit/287099",
+      "created": "1008865465",
+      "node": {
+        "uri": "https://www.drupal.org/api-d7/node/16",
+        "id": "16",
+        "resource": "node"
+      },
+      "author": {
+        "uri": "https://www.drupal.org/api-d7/user/8",
+        "id": "8",
+        "resource": "user"
+      },
+      "feeds_item_guid": null,
+      "feeds_item_url": null,
+      "feed_nid": null
+    },
+    {
+      "comment_body": {
+        "value": "\u003Cp\u003EThis works as intended as Drupal does not check if the node should be commented until it is submitted. This could be concidered a bug so lets leave it open as a reminder.\u003C/p\u003E",
+        "format": "1"
+      },
+      "field_attribute_contribution_to": [],
+      "field_for_customer": [],
+      "field_attribute_as_volunteer": [],
+      "cid": "287100",
+      "name": "",
+      "homepage": "",
+      "subject": "",
+      "url": "https://www.drupal.org/project/drupal/issues/16#comment-287100",
+      "edit_url": "https://www.drupal.org/comment/edit/287100",
+      "created": "1008930206",
+      "node": {
+        "uri": "https://www.drupal.org/api-d7/node/16",
+        "id": "16",
+        "resource": "node"
+      },
+      "feeds_item_guid": null,
+      "feeds_item_url": null,
+      "feed_nid": null
+    },
+    {
+      "comment_body": {
+        "value": "\u003Cp\u003EThis is a result of changes to the way comment.module and node.module handle links. There should be a \u0022moderate button\u0022 to submit comment ratings.\u003C/p\u003E\n\u003Cp\u003EAssigning this to Dries for now.\u003C/p\u003E",
+        "format": "1"
+      },
+      "field_attribute_contribution_to": [],
+      "field_for_customer": [],
+      "field_attribute_as_volunteer": [],
+      "cid": "287105",
+      "name": "",
+      "homepage": "",
+      "subject": "",
+      "url": "https://www.drupal.org/project/drupal/issues/23#comment-287105",
+      "edit_url": "https://www.drupal.org/comment/edit/287105",
+      "created": "1008930322",
+      "node": {
+        "uri": "https://www.drupal.org/api-d7/node/23",
+        "id": "23",
+        "resource": "node"
+      },
+      "feeds_item_guid": null,
+      "feeds_item_url": null,
+      "feed_nid": null
+    },
+    {
+      "comment_body": { "value": "", "format": null },
+      "field_attribute_contribution_to": [],
+      "field_for_customer": [],
+      "field_attribute_as_volunteer": [],
+      "cid": "287020",
+      "name": "kika",
+      "homepage": "",
+      "subject": "",
+      "url": "https://www.drupal.org/project/drupal/issues/7#comment-287020",
+      "edit_url": "https://www.drupal.org/comment/edit/287020",
+      "created": "1008953053",
+      "node": {
+        "uri": "https://www.drupal.org/api-d7/node/7",
+        "id": "7",
+        "resource": "node"
+      },
+      "author": {
+        "uri": "https://www.drupal.org/api-d7/user/11",
+        "id": "11",
+        "resource": "user"
+      },
+      "feeds_item_guid": null,
+      "feeds_item_url": null,
+      "feed_nid": null
+    },
+    {
+      "comment_body": {
+        "value": "\u003Cp\u003EFixed it.  There was a bug in user_save(): when updating an existing user record it did not return the updated user/account object.\u003C/p\u003E",
+        "format": "1"
+      },
+      "field_attribute_contribution_to": [],
+      "field_for_customer": [],
+      "field_attribute_as_volunteer": [],
+      "cid": "287110",
+      "name": "Dries",
+      "homepage": "",
+      "subject": "",
+      "url": "https://www.drupal.org/project/drupal/issues/25#comment-287110",
+      "edit_url": "https://www.drupal.org/comment/edit/287110",
+      "created": "1009058022",
+      "node": {
+        "uri": "https://www.drupal.org/api-d7/node/25",
+        "id": "25",
+        "resource": "node"
+      },
+      "author": {
+        "uri": "https://www.drupal.org/api-d7/user/1",
+        "id": "1",
+        "resource": "user"
+      },
+      "feeds_item_guid": null,
+      "feeds_item_url": null,
+      "feed_nid": null
+    },
+    {
+      "comment_body": {
+        "value": "\u003Cp\u003EFixed.  It was a typo: comments_all() should have been comment_all() instead.\u003C/p\u003E",
+        "format": "1"
+      },
+      "field_attribute_contribution_to": [],
+      "field_for_customer": [],
+      "field_attribute_as_volunteer": [],
+      "cid": "287114",
+      "name": "Dries",
+      "homepage": "",
+      "subject": "",
+      "url": "https://www.drupal.org/project/drupal/issues/30#comment-287114",
+      "edit_url": "https://www.drupal.org/comment/edit/287114",
+      "created": "1009923559",
+      "node": {
+        "uri": "https://www.drupal.org/api-d7/node/30",
+        "id": "30",
+        "resource": "node"
+      },
+      "author": {
+        "uri": "https://www.drupal.org/api-d7/user/1",
+        "id": "1",
+        "resource": "user"
+      },
+      "feeds_item_guid": null,
+      "feeds_item_url": null,
+      "feed_nid": null
+    },
+    {
+      "comment_body": { "value": "", "format": null },
+      "field_attribute_contribution_to": [],
+      "field_for_customer": [],
+      "field_attribute_as_volunteer": [],
+      "cid": "287116",
+      "name": "jibbajabba",
+      "homepage": "",
+      "subject": "",
+      "url": "https://www.drupal.org/project/drupal/issues/31#comment-287116",
+      "edit_url": "https://www.drupal.org/comment/edit/287116",
+      "created": "1009996912",
+      "node": {
+        "uri": "https://www.drupal.org/api-d7/node/31",
+        "id": "31",
+        "resource": "node"
+      },
+      "author": {
+        "uri": "https://www.drupal.org/api-d7/user/58",
+        "id": "58",
+        "resource": "user"
+      },
+      "feeds_item_guid": null,
+      "feeds_item_url": null,
+      "feed_nid": null
+    },
+    {
+      "comment_body": {
+        "value": "\u003Cp\u003ELet me know if you want to see a sample of this in action. I have Movable Type set up. -Michael\u003C/p\u003E",
+        "format": "1"
+      },
+      "field_attribute_contribution_to": [],
+      "field_for_customer": [],
+      "field_attribute_as_volunteer": [],
+      "cid": "287117",
+      "name": "jibbajabba",
+      "homepage": "",
+      "subject": "",
+      "url": "https://www.drupal.org/project/drupal/issues/31#comment-287117",
+      "edit_url": "https://www.drupal.org/comment/edit/287117",
+      "created": "1009996970",
+      "node": {
+        "uri": "https://www.drupal.org/api-d7/node/31",
+        "id": "31",
+        "resource": "node"
+      },
+      "author": {
+        "uri": "https://www.drupal.org/api-d7/user/58",
+        "id": "58",
+        "resource": "user"
+      },
+      "feeds_item_guid": null,
+      "feeds_item_url": null,
+      "feed_nid": null
+    },
+    {
+      "comment_body": {
+        "value": "\u003Cp\u003ECheck this: \u003Ca href=\u0022http://www.voidstar.com/node.php?id=235\u0022 rel=\u0022nofollow\u0022\u003Ehttp://www.voidstar.com/node.php?id=235\u003C/a\u003E\u003C/p\u003E",
+        "format": "1"
+      },
+      "field_attribute_contribution_to": [],
+      "field_for_customer": [],
+      "field_attribute_as_volunteer": [],
+      "cid": "287118",
+      "name": "kika",
+      "homepage": "",
+      "subject": "",
+      "url": "https://www.drupal.org/project/drupal/issues/31#comment-287118",
+      "edit_url": "https://www.drupal.org/comment/edit/287118",
+      "created": "1009997210",
+      "node": {
+        "uri": "https://www.drupal.org/api-d7/node/31",
+        "id": "31",
+        "resource": "node"
+      },
+      "author": {
+        "uri": "https://www.drupal.org/api-d7/user/11",
+        "id": "11",
+        "resource": "user"
+      },
+      "feeds_item_guid": null,
+      "feeds_item_url": null,
+      "feed_nid": null
+    },
+    {
+      "comment_body": {
+        "value": "\u003Cp\u003EHeh...I suggest to check \u003Ca href=\u0022http://www.voidstar.com/node.php?id=232\u0022 rel=\u0022nofollow\u0022\u003Ehttp://www.voidstar.com/node.php?id=232\u003C/a\u003E. There are more similar features you might need :)\u003C/p\u003E",
+        "format": "1"
+      },
+      "field_attribute_contribution_to": [],
+      "field_for_customer": [],
+      "field_attribute_as_volunteer": [],
+      "cid": "287121",
+      "name": "kika",
+      "homepage": "",
+      "subject": "",
+      "url": "https://www.drupal.org/project/drupal/issues/32#comment-287121",
+      "edit_url": "https://www.drupal.org/comment/edit/287121",
+      "created": "1009997724",
+      "node": {
+        "uri": "https://www.drupal.org/api-d7/node/32",
+        "id": "32",
+        "resource": "node"
+      },
+      "author": {
+        "uri": "https://www.drupal.org/api-d7/user/11",
+        "id": "11",
+        "resource": "user"
+      },
+      "feeds_item_guid": null,
+      "feeds_item_url": null,
+      "feed_nid": null
+    },
+    {
+      "comment_body": {
+        "value": "\u003Cp\u003EFixed in CVS.\u003C/p\u003E",
+        "format": "1"
+      },
+      "field_attribute_contribution_to": [],
+      "field_for_customer": [],
+      "field_attribute_as_volunteer": [],
+      "cid": "287134",
+      "name": "Dries",
+      "homepage": "",
+      "subject": "",
+      "url": "https://www.drupal.org/project/drupal/issues/36#comment-287134",
+      "edit_url": "https://www.drupal.org/comment/edit/287134",
+      "created": "1010095416",
+      "node": {
+        "uri": "https://www.drupal.org/api-d7/node/36",
+        "id": "36",
+        "resource": "node"
+      },
+      "author": {
+        "uri": "https://www.drupal.org/api-d7/user/1",
+        "id": "1",
+        "resource": "user"
+      },
+      "feeds_item_guid": null,
+      "feeds_item_url": null,
+      "feed_nid": null
+    },
+    {
+      "comment_body": {
+        "value": "\u003Cp\u003EIt is never been that way so it is a \u0022future enhancement\u0022 rather then a bug.  I assigned it to myself and will look into it during the weekend.  It shouldn\u0027t be too hard. ;)\u003C/p\u003E",
+        "format": "1"
+      },
+      "field_attribute_contribution_to": [],
+      "field_for_customer": [],
+      "field_attribute_as_volunteer": [],
+      "cid": "287136",
+      "name": "Dries",
+      "homepage": "",
+      "subject": "",
+      "url": "https://www.drupal.org/project/drupal/issues/37#comment-287136",
+      "edit_url": "https://www.drupal.org/comment/edit/287136",
+      "created": "1010095620",
+      "node": {
+        "uri": "https://www.drupal.org/api-d7/node/37",
+        "id": "37",
+        "resource": "node"
+      },
+      "author": {
+        "uri": "https://www.drupal.org/api-d7/user/1",
+        "id": "1",
+        "resource": "user"
+      },
+      "feeds_item_guid": null,
+      "feeds_item_url": null,
+      "feed_nid": null
+    },
+    {
+      "comment_body": {
+        "value": "\u003Cp\u003ECool. I just found these on Julian\u0027s site and came back to note that when I saw your message Kika.\u003C/p\u003E\n\u003Cp\u003ECould this be incorporated into future releases of Drupal? These things are timesavers.\u003C/p\u003E\n\u003Cp\u003E-Mike\u003C/p\u003E",
+        "format": "1"
+      },
+      "field_attribute_contribution_to": [],
+      "field_for_customer": [],
+      "field_attribute_as_volunteer": [],
+      "cid": "287119",
+      "name": "jibbajabba",
+      "homepage": "",
+      "subject": "",
+      "url": "https://www.drupal.org/project/drupal/issues/31#comment-287119",
+      "edit_url": "https://www.drupal.org/comment/edit/287119",
+      "created": "1010144204",
+      "node": {
+        "uri": "https://www.drupal.org/api-d7/node/31",
+        "id": "31",
+        "resource": "node"
+      },
+      "author": {
+        "uri": "https://www.drupal.org/api-d7/user/58",
+        "id": "58",
+        "resource": "user"
+      },
+      "feeds_item_guid": null,
+      "feeds_item_url": null,
+      "feed_nid": null
+    },
+    {
+      "comment_body": {
+        "value": "\u003Cp\u003EIf we are going to do bookmarks, I\u0027d like to see some of the ideas discussed in response to my post on \u003Ca href=\u0022http://www.drop.org/node.php?id=740\u0022 title=\u0022Read the comments\u0022 rel=\u0022nofollow\u0022\u003EPeer to Peer Lessons for Community Publishing\u003C/a\u003E.  \u003C/p\u003E\n\u003Cp\u003EUser bookmarks might be able to provide the key meta information that we\u0027ve been searching for.  \u003C/p\u003E\n\u003Cp\u003EIf/when someone starts developing this, I\u0027d love to see it go through a design review.\u003C/p\u003E\n\u003Cp\u003ECheers,\u003Cbr /\u003E\n- Joe\u003C/p\u003E",
+        "format": "1"
+      },
+      "field_attribute_contribution_to": [],
+      "field_for_customer": [],
+      "field_attribute_as_volunteer": [],
+      "cid": "287130",
+      "name": "j0e@www.drop.org",
+      "homepage": "",
+      "subject": "",
+      "url": "https://www.drupal.org/project/drupal/issues/35#comment-287130",
+      "edit_url": "https://www.drupal.org/comment/edit/287130",
+      "created": "1010159811",
+      "node": {
+        "uri": "https://www.drupal.org/api-d7/node/35",
+        "id": "35",
+        "resource": "node"
+      },
+      "author": {
+        "uri": "https://www.drupal.org/api-d7/user/15",
+        "id": "15",
+        "resource": "user"
+      },
+      "feeds_item_guid": null,
+      "feeds_item_url": null,
+      "feed_nid": null
+    },
+    {
+      "comment_body": {
+        "value": "\u003Cp\u003ESome form of a feature, that allows an announcement to be at the top of the storiespage. So that when people comes to the website, there will be an announcement (welcoming screen) at the top of the page, no matter how many stories are quequed later.\u003C/p\u003E\n\u003Cp\u003EOr a feature that sets a story outside the date sortorder, so that it stays at the top until it is put back in the date sortorder again. Rather this in fact...\u003C/p\u003E",
+        "format": "1"
+      },
+      "field_attribute_contribution_to": [],
+      "field_for_customer": [],
+      "field_attribute_as_volunteer": [],
+      "cid": "287140",
+      "name": "Salamartin",
+      "homepage": "",
+      "subject": "",
+      "url": "https://www.drupal.org/project/drupal/issues/40#comment-287140",
+      "edit_url": "https://www.drupal.org/comment/edit/287140",
+      "created": "1010308731",
+      "node": {
+        "uri": "https://www.drupal.org/api-d7/node/40",
+        "id": "40",
+        "resource": "node"
+      },
+      "author": {
+        "uri": "https://www.drupal.org/api-d7/user/41",
+        "id": "41",
+        "resource": "user"
+      },
+      "feeds_item_guid": null,
+      "feeds_item_url": null,
+      "feed_nid": null
+    },
+    {
+      "comment_body": {
+        "value": "\u003Cp\u003EI see I haven\u0027t got the hang of this yet - so please disregard the second comment, as it\u0027s just a copy of the first. The only thing I wanted updated was the \u0022Area\u0022 description.\u003C/p\u003E",
+        "format": "1"
+      },
+      "field_attribute_contribution_to": [],
+      "field_for_customer": [],
+      "field_attribute_as_volunteer": [],
+      "cid": "287141",
+      "name": "Salamartin",
+      "homepage": "",
+      "subject": "",
+      "url": "https://www.drupal.org/project/drupal/issues/40#comment-287141",
+      "edit_url": "https://www.drupal.org/comment/edit/287141",
+      "created": "1010308885",
+      "node": {
+        "uri": "https://www.drupal.org/api-d7/node/40",
+        "id": "40",
+        "resource": "node"
+      },
+      "author": {
+        "uri": "https://www.drupal.org/api-d7/user/41",
+        "id": "41",
+        "resource": "user"
+      },
+      "feeds_item_guid": null,
+      "feeds_item_url": null,
+      "feed_nid": null
+    },
+    {
+      "comment_body": {
+        "value": "\u003Cp\u003EGreat, Marco Molinari whipped up a module with features similar to kuro5hin and the module is now in cvs under contributions/module and named \u0022hotlist\u0022. Woo hoo\u003C/p\u003E",
+        "format": "1"
+      },
+      "field_attribute_contribution_to": [],
+      "field_for_customer": [],
+      "field_attribute_as_volunteer": [],
+      "cid": "287131",
+      "name": "Carl Ditzler",
+      "homepage": "",
+      "subject": "",
+      "url": "https://www.drupal.org/project/drupal/issues/35#comment-287131",
+      "edit_url": "https://www.drupal.org/comment/edit/287131",
+      "created": "1010361360",
+      "node": {
+        "uri": "https://www.drupal.org/api-d7/node/35",
+        "id": "35",
+        "resource": "node"
+      },
+      "author": {
+        "uri": "https://www.drupal.org/api-d7/user/6",
+        "id": "6",
+        "resource": "user"
+      },
+      "feeds_item_guid": null,
+      "feeds_item_url": null,
+      "feed_nid": null
+    },
+    {
+      "comment_body": {
+        "value": "\u003Cp\u003EClosed.\u003C/p\u003E",
+        "format": "1"
+      },
+      "field_attribute_contribution_to": [],
+      "field_for_customer": [],
+      "field_attribute_as_volunteer": [],
+      "cid": "287018",
+      "name": "",
+      "homepage": "",
+      "subject": "",
+      "url": "https://www.drupal.org/project/drupal/issues/6#comment-287018",
+      "edit_url": "https://www.drupal.org/comment/edit/287018",
+      "created": "1010514971",
+      "node": {
+        "uri": "https://www.drupal.org/api-d7/node/6",
+        "id": "6",
+        "resource": "node"
+      },
+      "feeds_item_guid": null,
+      "feeds_item_url": null,
+      "feed_nid": null
+    },
+    {
+      "comment_body": {
+        "value": "\u003Cp\u003EClosed.\u003C/p\u003E",
+        "format": "1"
+      },
+      "field_attribute_contribution_to": [],
+      "field_for_customer": [],
+      "field_attribute_as_volunteer": [],
+      "cid": "287096",
+      "name": "",
+      "homepage": "",
+      "subject": "",
+      "url": "https://www.drupal.org/project/drupal/issues/15#comment-287096",
+      "edit_url": "https://www.drupal.org/comment/edit/287096",
+      "created": "1010515673",
+      "node": {
+        "uri": "https://www.drupal.org/api-d7/node/15",
+        "id": "15",
+        "resource": "node"
+      },
+      "feeds_item_guid": null,
+      "feeds_item_url": null,
+      "feed_nid": null
+    },
+    {
+      "comment_body": { "value": "", "format": null },
+      "field_attribute_contribution_to": [],
+      "field_for_customer": [],
+      "field_attribute_as_volunteer": [],
+      "cid": "287132",
+      "name": "moshe weitzman",
+      "homepage": "",
+      "subject": "",
+      "url": "https://www.drupal.org/project/drupal/issues/35#comment-287132",
+      "edit_url": "https://www.drupal.org/comment/edit/287132",
+      "created": "1010701060",
+      "node": {
+        "uri": "https://www.drupal.org/api-d7/node/35",
+        "id": "35",
+        "resource": "node"
+      },
+      "author": {
+        "uri": "https://www.drupal.org/api-d7/user/23",
+        "id": "23",
+        "resource": "user"
+      },
+      "feeds_item_guid": null,
+      "feeds_item_url": null,
+      "feed_nid": null
+    },
+    {
+      "comment_body": {
+        "value": "\u003Cp\u003EFixed.\u003C/p\u003E",
+        "format": "1"
+      },
+      "field_attribute_contribution_to": [],
+      "field_for_customer": [],
+      "field_attribute_as_volunteer": [],
+      "cid": "287148",
+      "name": "Dries",
+      "homepage": "",
+      "subject": "",
+      "url": "https://www.drupal.org/project/drupal/issues/42#comment-287148",
+      "edit_url": "https://www.drupal.org/comment/edit/287148",
+      "created": "1010845143",
+      "node": {
+        "uri": "https://www.drupal.org/api-d7/node/42",
+        "id": "42",
+        "resource": "node"
+      },
+      "author": {
+        "uri": "https://www.drupal.org/api-d7/user/1",
+        "id": "1",
+        "resource": "user"
+      },
+      "feeds_item_guid": null,
+      "feeds_item_url": null,
+      "feed_nid": null
+    },
+    {
+      "comment_body": {
+        "value": "\u003Cp\u003EI like boxes with old content, like \u0022Older stuff\u0022 in \u003Ca href=\u0022http://www.slashdot.org\u0022 rel=\u0022nofollow\u0022\u003E/.\u003C/a\u003E\u003Ca rel=\u0022nofollow\u0022\u003E and \u0022front page\u0022 in \u003C/a\u003E\u003Ca href=\u0022http://www.kuro5hin.org\u0022 rel=\u0022nofollow\u0022\u003Ek5\u003C/a\u003E. A setting could be the number of stories to show. A link to \u0022Older stories\u0022 in that box could be implemented easily.\u003C/p\u003E",
+        "format": "1"
+      },
+      "field_attribute_contribution_to": [],
+      "field_for_customer": [],
+      "field_attribute_as_volunteer": [],
+      "cid": "287154",
+      "name": "marco",
+      "homepage": "",
+      "subject": "",
+      "url": "https://www.drupal.org/project/drupal/issues/50#comment-287154",
+      "edit_url": "https://www.drupal.org/comment/edit/287154",
+      "created": "1011014493",
+      "node": {
+        "uri": "https://www.drupal.org/api-d7/node/50",
+        "id": "50",
+        "resource": "node"
+      },
+      "author": {
+        "uri": "https://www.drupal.org/api-d7/user/67",
+        "id": "67",
+        "resource": "user"
+      },
+      "feeds_item_guid": null,
+      "feeds_item_url": null,
+      "feed_nid": null
+    },
+    {
+      "comment_body": {
+        "value": "\u003Cp\u003Ejust curious - any progress on this?\u003C/p\u003E",
+        "format": "1"
+      },
+      "field_attribute_contribution_to": [],
+      "field_for_customer": [],
+      "field_attribute_as_volunteer": [],
+      "cid": "287022",
+      "name": "ax",
+      "homepage": "",
+      "subject": "",
+      "url": "https://www.drupal.org/project/drupal/issues/8#comment-287022",
+      "edit_url": "https://www.drupal.org/comment/edit/287022",
+      "created": "1011059204",
+      "node": {
+        "uri": "https://www.drupal.org/api-d7/node/8",
+        "id": "8",
+        "resource": "node"
+      },
+      "author": {
+        "uri": "https://www.drupal.org/api-d7/user/8",
+        "id": "8",
+        "resource": "user"
+      },
+      "feeds_item_guid": null,
+      "feeds_item_url": null,
+      "feed_nid": null
+    },
+    {
+      "comment_body": {
+        "value": "\u003Cp\u003EIt seems that we are all struggling with this area,  here are the key discussion points that I see in your post and elsewhere.\u003C/p\u003E\n\u003Cp\u003E1.  Hierarchies,  should we support them?  If so 2 levels or \u0027n\u0027 levels.\u003C/p\u003E\n\u003Cp\u003E2.  Classification, who is responsible for classifying a post? Users, software, admin?\u003C/p\u003E\n\u003Cp\u003EI think a reason that this is difficult might be that Drupal is being used for many very different purposes.  A personal weblog tool, a community publishing tool, a knowledge management tool, a content management system...  you get the idea.  Each of these applications has a different set of goals.  For example, an \u0027n\u0027 level hierarchy is beyond the needs of a personal weblog and might add unwanted complexity to the application.  Automated classification sounds too complex for every application except large scale CMS.\u003C/p\u003E\n\u003Cp\u003ESo it seems that a highly flexible but not too complex solution is in order \u003Cimg src=\u0022/misc/watchdog-error.png\u0022 border=\u00220\u0022 alt=\u0022Only local images are allowed.\u0022 data-orig-src=\u0022/misc/smileys/smile.png\u0022 title=\u0022Only local images are allowed.\u0022 width=\u002218\u0022 height=\u002218\u0022 /\u003E  No wonder we are struggling.\u003C/p\u003E\n\u003Cp\u003EOh, to your point about dumping the term meta tags.  Is your suggestion to use \u0022subject classification\u0022?\u003C/p\u003E\n\u003Cp\u003E\u003Ci\u003EReading maketh a full man, conference a ready man, and writing an exact man.\u003C/i\u003E - Francis Bacon\u003Cbr /\u003E\nUsing Drupal maketh a full, ready and exact man \u003Cimg src=\u0022/misc/watchdog-error.png\u0022 border=\u00220\u0022 alt=\u0022Only local images are allowed.\u0022 data-orig-src=\u0022/misc/smileys/smile.png\u0022 title=\u0022Only local images are allowed.\u0022 width=\u002218\u0022 height=\u002218\u0022 /\u003E\u003C/p\u003E",
+        "format": "1"
+      },
+      "cid": "76",
+      "name": "j0e@www.drop.org",
+      "homepage": null,
+      "subject": "Fantastic discussion",
+      "url": "https://www.drupal.org/forum/general/news-and-announcements/2002-01-15/rethinking-drupals-meta-tags-beyond-version-3#comment-76",
+      "edit_url": "https://www.drupal.org/comment/edit/76",
+      "created": "1011146927",
+      "node": {
+        "uri": "https://www.drupal.org/api-d7/node/55",
+        "id": "55",
+        "resource": "node"
+      },
+      "author": {
+        "uri": "https://www.drupal.org/api-d7/user/15",
+        "id": "15",
+        "resource": "user"
+      },
+      "feeds_item_guid": null,
+      "feeds_item_url": null,
+      "feed_nid": null
+    },
+    {
+      "comment_body": {
+        "value": "\u003Cp\u003EPolaar and I had an interesting \u003Ca href=\u0022http://www.drop.org/node.php?id=740\u0022 rel=\u0022nofollow\u0022\u003Ediscussion\u003C/a\u003E on subject classification not too long ago.  \u003C/p\u003E\n\u003Cp\u003EThe idea was to distribute the work/responsibility of classifying posts among all community participants.  Participants, who like their data classified and have developed their own mental taxonomy will naturally want to organize the posts they care about in ways that make sense to them.  Providing them with this functionality, no matter what their role in the site can benefit the rest of the community.\u003C/p\u003E\n\u003Cp\u003ESo classification can happen at any level, administrator, author or registered reader.\u003C/p\u003E\n\u003Cp\u003EAn administrator can set a recommended taxonomy, meaning that the administrator optionally defines the keywords or hierarchy.  This helps define the direction and scope of the community.\u003C/p\u003E\n\u003Cp\u003EAs an author submits a post, he/she has the option to choose subject categories.  If they don\u0027t categorize the post, it is left in a \u0027catch-all\u0027 bucket.\u003C/p\u003E\n\u003Cp\u003ERegistered readers can categorize posts.  I see this as a basic bookmark type function.  \u0022Hmm.  I like this post and want to be able to find it again.  I\u0027ll add it to my bookmarks\u0022 When the user goes to bookmark the post, drupal returns a list of categories with the post in the author\u0027s category.  The reader can then file it in the same category as the author, or use one of the predefined categories or create a new category.\u003C/p\u003E\n\u003Cp\u003EPersonal bookmarks categories are then \u0027averaged\u0027 and shared with the rest of the community.  If a reader bookmarks a post in \u0022category3\u0022, the next reader to bookmark that post sees that information along with the authors categorization and can choose to use either or create a new category.  The most popular categorization for a post is used for the public directory.\u003C/p\u003E\n\u003Cp\u003EWriting this, I see it would be ridiculously complex to code and would probably be confusing to users.  However, it provides a ton of flexibility and was fun to think about.  Maybe it will give the group some useful ideas.\u003C/p\u003E\n\u003Cp\u003E\u003Ci\u003EReading maketh a full man, conference a ready man, and writing an exact man.\u003C/i\u003E - Francis Bacon\u003C/p\u003E",
+        "format": "1"
+      },
+      "cid": "77",
+      "name": "j0e@www.drop.org",
+      "homepage": null,
+      "subject": "Resurfacing an earlier discussion",
+      "url": "https://www.drupal.org/forum/general/news-and-announcements/2002-01-15/rethinking-drupals-meta-tags-beyond-version-3#comment-77",
+      "edit_url": "https://www.drupal.org/comment/edit/77",
+      "created": "1011149472",
+      "node": {
+        "uri": "https://www.drupal.org/api-d7/node/55",
+        "id": "55",
+        "resource": "node"
+      },
+      "author": {
+        "uri": "https://www.drupal.org/api-d7/user/15",
+        "id": "15",
+        "resource": "user"
+      },
+      "feeds_item_guid": null,
+      "feeds_item_url": null,
+      "feed_nid": null
+    },
+    {
+      "comment_body": {
+        "value": "\u003Cp\u003E1. why 2 levels?\u003Cbr /\u003E\n2. since the meta... eh \u0027subject classification\u0027 system is gone at the moment, I guess it\u0027s best to keep things simple to start with and go for the classic \u0027posters classify their own posts\u0027, with perhaps the choice of \u0027admin(s) classifies all posts\u0027 (global choice between these two). I guess all other solutions will slow things down considerably.\u003C/p\u003E\n\u003Cp\u003Eanonymous polaar\u003C/p\u003E",
+        "format": "1"
+      },
+      "cid": "82",
+      "name": null,
+      "homepage": null,
+      "subject": "your questions",
+      "url": "https://www.drupal.org/forum/general/news-and-announcements/2002-01-15/rethinking-drupals-meta-tags-beyond-version-3#comment-82",
+      "edit_url": "https://www.drupal.org/comment/edit/82",
+      "created": "1011183886",
+      "parent": {
+        "uri": "https://www.drupal.org/api-d7/comment/76",
+        "id": "76",
+        "resource": "comment"
+      },
+      "node": {
+        "uri": "https://www.drupal.org/api-d7/node/55",
+        "id": "55",
+        "resource": "node"
+      },
+      "feeds_item_guid": null,
+      "feeds_item_url": null,
+      "feed_nid": null
+    },
+    {
+      "comment_body": {
+        "value": "\u003Cp\u003E\u0026gt; Oh, to your point about dumping the term meta tags. Is your suggestion to use \u0022subject classification\u0022?\u003C/p\u003E\n\u003Cp\u003EThat sounds good to me. Or any of the following: subject headings, topics, categories.\u003C/p\u003E\n\u003Cp\u003E\u0026gt; I guess it\u0027s best to keep things simple to start with\u003C/p\u003E\n\u003Cp\u003EI would agree that this is best for most uses, but I see Joe\u0027s point about uses that would benefit from n-level hierarchies, namely knowledge management blogs. I wish I got to see the \u0022sections with subsections\u0022 version of Drupal that I saw mentioned on another thread. This is what really interests me. Being able to classify things in multiple sections/subsections (as we could do with 3.x\u0027s attributes) is also interesting.\u003C/p\u003E",
+        "format": "1"
+      },
+      "cid": "83",
+      "name": "jibbajabba",
+      "homepage": null,
+      "subject": "subject classification and \u0022n\u0022 levels",
+      "url": "https://www.drupal.org/forum/general/news-and-announcements/2002-01-15/rethinking-drupals-meta-tags-beyond-version-3#comment-83",
+      "edit_url": "https://www.drupal.org/comment/edit/83",
+      "created": "1011195547",
+      "parent": {
+        "uri": "https://www.drupal.org/api-d7/comment/76",
+        "id": "76",
+        "resource": "comment"
+      },
+      "node": {
+        "uri": "https://www.drupal.org/api-d7/node/55",
+        "id": "55",
+        "resource": "node"
+      },
+      "author": {
+        "uri": "https://www.drupal.org/api-d7/user/58",
+        "id": "58",
+        "resource": "user"
+      },
+      "feeds_item_guid": null,
+      "feeds_item_url": null,
+      "feed_nid": null
+    },
+    {
+      "comment_body": {
+        "value": "\u003Cp\u003EYOUR PREVIOUS DISCUSSION\u003Cbr /\u003E\nj0e and poolar, I read your past discussion and think you are on the right track. I wonder about user-generated categories. I see the value of letting users select subject headings based on the predefined subject taxonomy. But users adding categories to the taxonomy interests and troubles me at the same time. So I would propose separating any new user-contributed subjects from the taxonomy. Perhaps a system to request a subject be added could go to the moderators? I don\u0027t know. Here\u0027s some further thoughts on this topic based on previous untested work I\u0027ve done.\u003C/p\u003E\n\u003Cp\u003EVALUE OF USER-GENERATED INDEXING\u003Cbr /\u003E\nA while ago, I wrote \u003Ca href=\u0022http://studioid.com/studio/articles/vri/\u0022 rel=\u0022nofollow\u0022\u003Ea database definition document that proposed a system for indexing images\u003C/a\u003E. The paper suggested an access point that used user-generated keywords. This is similar to what you are suggesting here and I am very interested in this type of categorization because it might add value to individual users.\u003C/p\u003E\n\u003Cp\u003ESEPARATE USER KEYWORDS RATHER THAN NODES IN THE SUBJECT TAXONOMY\u003Cbr /\u003E\nj0e\u0027s idea of using bookmarks is right on the money. It is similar to the idea I suggest in the paper of user-generated index terms/descriptors. The concept was borrowed from the Information Retrieval literature (I can\u0027t remember where) and I have not been able to find any literature/research that suggests that this is valuable. But I am interested in a proposal of this sort that is somehow related to the hierarchical subject taxonomy that we are discussing above, but  is not exactly a part of it. \u003C/p\u003E\n\u003Cp\u003EI think j0e is suggesting that the bookmarks/keywords would be separated from the subject taxonomy, is that right? I chose the word \u0022keywords\u0022 rather than saying that the user-generated descriptions would go in the subject headings is because I think it would be better to have this kind of data fall into an alphanumeric listing of index terms rather than be part of the subject taxonomy. Therefore it would be separated physically in the database, but would be joined back with subject headings somehow in the presentation. What I envisioned at the time was a displayed index that allows you to browse by subject headings OR browse by user descriptors -- they would not be grouped together on screen.\u003C/p\u003E\n\u003Cp\u003EIs this getting hard to follow? It might be because the models I followed were Print Indexes like the Bibliography of the History of Art and the Modern Language Association Index. I was attempting to describe a way of taking the immense strength of the presentation in these indexes and transform it into electronic format. Some of this is very relevant to Drupal.\u003C/p\u003E",
+        "format": "1"
+      },
+      "cid": "84",
+      "name": "jibbajabba",
+      "homepage": null,
+      "subject": "This is a fascinating concept",
+      "url": "https://www.drupal.org/forum/general/news-and-announcements/2002-01-15/rethinking-drupals-meta-tags-beyond-version-3#comment-84",
+      "edit_url": "https://www.drupal.org/comment/edit/84",
+      "created": "1011196808",
+      "parent": {
+        "uri": "https://www.drupal.org/api-d7/comment/77",
+        "id": "77",
+        "resource": "comment"
+      },
+      "node": {
+        "uri": "https://www.drupal.org/api-d7/node/55",
+        "id": "55",
+        "resource": "node"
+      },
+      "author": {
+        "uri": "https://www.drupal.org/api-d7/user/58",
+        "id": "58",
+        "resource": "user"
+      },
+      "feeds_item_guid": null,
+      "feeds_item_url": null,
+      "feed_nid": null
+    },
+    {
+      "comment_body": {
+        "value": "\u003Cp\u003ESeems you\u0027re replying to two comments here...\u003Cbr /\u003E\nI suppose your second quote (keep things simple) refers to mine:\u003Cbr /\u003E\nI meant for the \u0027assigning\u0027 of metatags, not that you should go for flat sections.\u003Cbr /\u003E\nAs for the classification, I\u0027m also in favour of the \u0027sections with subsections\u0027 (which were my own words in the other thread \u003Cimg src=\u0022/misc/watchdog-error.png\u0022 border=\u00220\u0022 alt=\u0022Only local images are allowed.\u0022 data-orig-src=\u0022/misc/smileys/smile.png\u0022 title=\u0022Only local images are allowed.\u0022 width=\u002218\u0022 height=\u002218\u0022 /\u003E), but maybe my comment was a little unclear: I asked \u0027why 2 levels?\u0027 because that seemed a little strange to me: I can understand people choosing flat sections, but if you implement a hierarchy, why restrict it to two levels?\u003C/p\u003E\n\u003Cp\u003Epolaar\u003C/p\u003E",
+        "format": "1"
+      },
+      "cid": "85",
+      "name": null,
+      "homepage": null,
+      "subject": "Seems you\u0027re replying to two",
+      "url": "https://www.drupal.org/forum/general/news-and-announcements/2002-01-15/rethinking-drupals-meta-tags-beyond-version-3#comment-85",
+      "edit_url": "https://www.drupal.org/comment/edit/85",
+      "created": "1011200476",
+      "parent": {
+        "uri": "https://www.drupal.org/api-d7/comment/83",
+        "id": "83",
+        "resource": "comment"
+      },
+      "node": {
+        "uri": "https://www.drupal.org/api-d7/node/55",
+        "id": "55",
+        "resource": "node"
+      },
+      "feeds_item_guid": null,
+      "feeds_item_url": null,
+      "feed_nid": null
+    },
+    {
+      "comment_body": {
+        "value": "\u003Cp\u003E1. Do you mean why start with 2 levels or more, versus 1 level?  If so, it\u0027s because I got hung up on the word hierarchy. \u003Cimg src=\u0022/misc/watchdog-error.png\u0022 border=\u00220\u0022 alt=\u0022Only local images are allowed.\u0022 data-orig-src=\u0022/misc/smileys/smile.png\u0022 title=\u0022Only local images are allowed.\u0022 width=\u002218\u0022 height=\u002218\u0022 /\u003E\u003C/p\u003E\n\u003Cp\u003E2. Now why did you have to bring reality into the picture \u003Cimg src=\u0022/misc/watchdog-error.png\u0022 border=\u00220\u0022 alt=\u0022Only local images are allowed.\u0022 data-orig-src=\u0022/misc/smileys/smile.png\u0022 title=\u0022Only local images are allowed.\u0022 width=\u002218\u0022 height=\u002218\u0022 /\u003E\u003C/p\u003E\n\u003Cp\u003ECheers,\u003Cbr /\u003E\n- Joe\u003C/p\u003E\n\u003Cp\u003E\u003Ci\u003EReading maketh a full man, conference a ready man, and writing an exact man.\u003C/i\u003E - Francis Bacon\u003C/p\u003E",
+        "format": "1"
+      },
+      "cid": "86",
+      "name": "j0e@www.drop.org",
+      "homepage": null,
+      "subject": "because",
+      "url": "https://www.drupal.org/forum/general/news-and-announcements/2002-01-15/rethinking-drupals-meta-tags-beyond-version-3#comment-86",
+      "edit_url": "https://www.drupal.org/comment/edit/86",
+      "created": "1011201792",
+      "parent": {
+        "uri": "https://www.drupal.org/api-d7/comment/82",
+        "id": "82",
+        "resource": "comment"
+      },
+      "node": {
+        "uri": "https://www.drupal.org/api-d7/node/55",
+        "id": "55",
+        "resource": "node"
+      },
+      "author": {
+        "uri": "https://www.drupal.org/api-d7/user/15",
+        "id": "15",
+        "resource": "user"
+      },
+      "feeds_item_guid": null,
+      "feeds_item_url": null,
+      "feed_nid": null
+    },
+    {
+      "comment_body": {
+        "value": "\u003Cp\u003EOK. I understand your question. We\u0027re on the same page I think, in support of n-level hieararchies.\u003C/p\u003E",
+        "format": "1"
+      },
+      "cid": "87",
+      "name": "jibbajabba",
+      "homepage": null,
+      "subject": "n-levels",
+      "url": "https://www.drupal.org/forum/general/news-and-announcements/2002-01-15/rethinking-drupals-meta-tags-beyond-version-3#comment-87",
+      "edit_url": "https://www.drupal.org/comment/edit/87",
+      "created": "1011210595",
+      "parent": {
+        "uri": "https://www.drupal.org/api-d7/comment/85",
+        "id": "85",
+        "resource": "comment"
+      },
+      "node": {
+        "uri": "https://www.drupal.org/api-d7/node/55",
+        "id": "55",
+        "resource": "node"
+      },
+      "author": {
+        "uri": "https://www.drupal.org/api-d7/user/58",
+        "id": "58",
+        "resource": "user"
+      },
+      "feeds_item_guid": null,
+      "feeds_item_url": null,
+      "feed_nid": null
+    },
+    {
+      "comment_body": {
+        "value": "\u003Cp\u003E1. see my reply to jibbajabbaboy\u003Cbr /\u003E\n2. \u003Cimg src=\u0022/misc/watchdog-error.png\u0022 border=\u00220\u0022 alt=\u0022Only local images are allowed.\u0022 data-orig-src=\u0022/misc/smileys/smile.png\u0022 title=\u0022Only local images are allowed.\u0022 width=\u002218\u0022 height=\u002218\u0022 /\u003E Talking about reality: I was thinking: how about doing a series of discussions (better on drop.org I guess) where participants are explicitly invited NOT to be realistic. Example: a discussion starting with the question \u0027how to get users to assign metatags?\u0027, where everybody just posts whatever they think of, no matter how unrealistic, far-fetched, absurd... That way nobody has to feel embarrassed about posting stupid ideas, there might actually come good ideas out of it, and if not, at least we can just have a good laugh. I was thinking you might like this... \u003Cimg src=\u0022/misc/watchdog-error.png\u0022 border=\u00220\u0022 alt=\u0022Only local images are allowed.\u0022 data-orig-src=\u0022/misc/smileys/wink.png\u0022 title=\u0022Only local images are allowed.\u0022 width=\u002218\u0022 height=\u002218\u0022 /\u003E\u003C/p\u003E",
+        "format": "1"
+      },
+      "cid": "88",
+      "name": null,
+      "homepage": null,
+      "subject": "RE: because",
+      "url": "https://www.drupal.org/forum/general/news-and-announcements/2002-01-15/rethinking-drupals-meta-tags-beyond-version-3#comment-88",
+      "edit_url": "https://www.drupal.org/comment/edit/88",
+      "created": "1011258744",
+      "parent": {
+        "uri": "https://www.drupal.org/api-d7/comment/86",
+        "id": "86",
+        "resource": "comment"
+      },
+      "node": {
+        "uri": "https://www.drupal.org/api-d7/node/55",
+        "id": "55",
+        "resource": "node"
+      },
+      "feeds_item_guid": null,
+      "feeds_item_url": null,
+      "feed_nid": null
+    },
+    {
+      "comment_body": {
+        "value": "\u003Cp\u003EIn the end we have to be realialistic. Someone has to code it, and they have to be able to understand what is being said. No harm against a go wild kinda disucussion first though \u003Cimg src=\u0022/misc/watchdog-error.png\u0022 border=\u00220\u0022 alt=\u0022Only local images are allowed.\u0022 data-orig-src=\u0022/misc/smileys/wink.png\u0022 title=\u0022Only local images are allowed.\u0022 width=\u002218\u0022 height=\u002218\u0022 /\u003E\u003C/p\u003E\n\u003Cp\u003EI would like a categorizing system that is easy to use, lets me define N levels and is integrated more. Drupal is more than just a blogging tool. In fact out of 5 Drupal sites I run only one of them is a blog.\u003C/p\u003E\n\u003Cp\u003EMy main problem with the meta tags ala 3.0.x is that it was not well enough integrated with the rest. You would categorize the content but it would be hard to do anything with it. It really required a lot of knowledge about Drupal innards. The tags/sections/... should be searchable, easially found, etc.\u003C/p\u003E\n\u003Cp\u003EIt would be nifty if Drupal could find out the category on its own, but I would like to see the rest work first. Not sure I like users just adding their own sections as on a busy site it would end up being worthless unless the admins like cleaning up every once in a while.\u003C/p\u003E\n\u003Cp\u003E--\u003Cbr /\u003E\nKjartan\u003C/p\u003E",
+        "format": "1"
+      },
+      "cid": "89",
+      "name": "Kjartan",
+      "homepage": null,
+      "subject": "Reality",
+      "url": "https://www.drupal.org/forum/general/news-and-announcements/2002-01-15/rethinking-drupals-meta-tags-beyond-version-3#comment-89",
+      "edit_url": "https://www.drupal.org/comment/edit/89",
+      "created": "1011261465",
+      "parent": {
+        "uri": "https://www.drupal.org/api-d7/comment/88",
+        "id": "88",
+        "resource": "comment"
+      },
+      "node": {
+        "uri": "https://www.drupal.org/api-d7/node/55",
+        "id": "55",
+        "resource": "node"
+      },
+      "author": {
+        "uri": "https://www.drupal.org/api-d7/user/2",
+        "id": "2",
+        "resource": "user"
+      },
+      "feeds_item_guid": null,
+      "feeds_item_url": null,
+      "feed_nid": null
+    },
+    {
+      "comment_body": {
+        "value": "\u003Cp\u003Enice - thanks.\u003C/p\u003E",
+        "format": "1"
+      },
+      "field_attribute_contribution_to": [],
+      "field_for_customer": [],
+      "field_attribute_as_volunteer": [],
+      "cid": "287157",
+      "name": "ax",
+      "homepage": "",
+      "subject": "",
+      "url": "https://www.drupal.org/project/drupal/issues/54#comment-287157",
+      "edit_url": "https://www.drupal.org/comment/edit/287157",
+      "created": "1011305209",
+      "node": {
+        "uri": "https://www.drupal.org/api-d7/node/54",
+        "id": "54",
+        "resource": "node"
+      },
+      "author": {
+        "uri": "https://www.drupal.org/api-d7/user/8",
+        "id": "8",
+        "resource": "user"
+      },
+      "feeds_item_guid": null,
+      "feeds_item_url": null,
+      "feed_nid": null
+    },
+    {
+      "comment_body": {
+        "value": "\u003Cp\u003EI think you\u0027ve got my number \u003Cimg src=\u0022/misc/watchdog-error.png\u0022 border=\u00220\u0022 alt=\u0022Only local images are allowed.\u0022 data-orig-src=\u0022/misc/smileys/smile.png\u0022 title=\u0022Only local images are allowed.\u0022 width=\u002218\u0022 height=\u002218\u0022 /\u003E  Although I don\u0027t get too embarrased by my stupid ideas as long as an occasional one has at least some redeeming value.\u003C/p\u003E\n\u003Cp\u003EI think that to be leaders in the community publishing/blogging/knowledge management arena we need free open and creative dialog without the constraints of reality.  If an idea is really worthy, I\u0027m sure we can bend reality a little \u003Cimg src=\u0022/misc/watchdog-error.png\u0022 border=\u00220\u0022 alt=\u0022Only local images are allowed.\u0022 data-orig-src=\u0022/misc/smileys/smile.png\u0022 title=\u0022Only local images are allowed.\u0022 width=\u002218\u0022 height=\u002218\u0022 /\u003E\u003C/p\u003E\n\u003Cp\u003EBeing an idealist and an optimist, I believe if we foster real creativity, we will develop an exciting vision for drupal.  As that vision becomes clearer, we\u0027ll start putting our creative energies into solving the problems of how.  First what, than how and stay open and creative throughout it all.\u003C/p\u003E\n\u003Cp\u003EWho knows though... I\u0027ll keep rambling and we\u0027ll see what happens.\u003C/p\u003E\n\u003Cp\u003ECheers,\u003Cbr /\u003E\n- Joe\u003C/p\u003E\n\u003Cp\u003E\u003Ci\u003EReading maketh a full man, conference a ready man, and writing an exact man.\u003C/i\u003E - Francis Bacon\u003C/p\u003E",
+        "format": "1"
+      },
+      "cid": "91",
+      "name": "j0e@www.drop.org",
+      "homepage": null,
+      "subject": "I do like it!",
+      "url": "https://www.drupal.org/forum/general/news-and-announcements/2002-01-15/rethinking-drupals-meta-tags-beyond-version-3#comment-91",
+      "edit_url": "https://www.drupal.org/comment/edit/91",
+      "created": "1011308720",
+      "parent": {
+        "uri": "https://www.drupal.org/api-d7/comment/88",
+        "id": "88",
+        "resource": "comment"
+      },
+      "node": {
+        "uri": "https://www.drupal.org/api-d7/node/55",
+        "id": "55",
+        "resource": "node"
+      },
+      "author": {
+        "uri": "https://www.drupal.org/api-d7/user/15",
+        "id": "15",
+        "resource": "user"
+      },
+      "feeds_item_guid": null,
+      "feeds_item_url": null,
+      "feed_nid": null
+    },
+    {
+      "comment_body": {
+        "value": "\u003Cp\u003EWhat you say makes good sense and is very reasonable.  In fact I  think in essense we agree.  The go wild discussion has its merrits, but much of the ideas wouldn\u0027t make sense to implement.  And of course if the developers don\u0027t understand it, they can\u0027t code it.\u003C/p\u003E\n\u003Cp\u003EIf you\u0027ll humor me a little longer,  I\u0027d like to expand on the idea of users creating new categories.  Here is what you said.\u003Cbr /\u003E\n\u003Ci\u003E\u003Cbr /\u003E\nNot sure I like users just adding their own sections as on a busy site it would end up being worthless unless the admins like cleaning up every once in a while.\u003Cbr /\u003E\n\u003C/i\u003E\u003C/p\u003E\n\u003Cp\u003EHere are a few ways we might handle this.\u003C/p\u003E\n\u003Cul\u003E\n\u003Cli\u003ENew categories could be pushed through a submission queue or be voted upon. I think Polaar mentioned this somewhere but can\u0027t find it to give proper credit.\n\u003C/li\u003E\u003Cli\u003EAs jibbajabbaboy said, the user taxonomies could be kept seperate from the administrators taxonomy so the administrators taxonomy stays clean and uncluttered.\n\u003C/li\u003E\u003Cli\u003EI was thinking of some sort of ranking though, where a shared taxonomy is self managed by \u0022normal selfish user behavior\u0022.  To be honest I don\u0027t really know how it would work, but here is a really rough sketch.\n\u003Cp\u003EJohn posts an article, and stores it in his own bookmarks with a new category name.  Bill reads the article, decides to bookmark.  When he bookmarks it, he see\u0027s a list of all categories, with the John\u0027s new category name highlighted and at the top of the list.  It is at the top and highlighted because there is a good chance that Bill will share John\u0027s opinion about categorization.  Let\u0027s say bill disagrees and puts it under one of the pre-existing categories.  Now Jeff bookmarks it, both Bill and John\u0027s categories are highlighted and at the top of the list. Whichever category that has been chosen the most for this post takes top spot.  \u003C/p\u003E\n\u003Cp\u003EThat\u0027s what a user see\u0027s when bookmarking a post.  But what does the rest of the viewing audience see?  They see a \u0022public directory\u0022 that sorts and ranks all the posts and categories based on the user bookmarks.  So John\u0027s post might start off categorized in a misc bucket, because John\u0027s new category is still unproven.  However, if enough people use John\u0027s category, it then becomes accepted into the public hierarchy, and the post is listed in that category.   As soon as Bill categorizes the post in a standard category, the post will also be listed there.  \u003C/p\u003E\n\u003Cp\u003ESince the act of bookmarking can be viewed as a metric of value, we could use that info.  Each category in the hierarchy is a rank order list of postings and one of the ranking attributes is how many times it was bookmarked into that category.\u003C/p\u003E\u003C/li\u003E\u003C/ul\u003E\n\u003Cp\u003EI must sound like the guy on the street corner drinking out of a paper bag.  But unfortunately, I can\u0027t use drugs or alcohol as an excuse for my ramblings.\u003C/p\u003E\n\u003Cp\u003EBTW, I think I\u0027ll take Polaar\u0027s advice and keep future pie-in-the-sky ramblings on drop.org and leave drupal.org for serious reality based discussion.\u003C/p\u003E\n\u003Cp\u003E\u003Ci\u003EReading maketh a full man, conference a ready man, and writing an exact man.\u003C/i\u003E - Francis Bacon\u003C/p\u003E",
+        "format": "1"
+      },
+      "cid": "92",
+      "name": "j0e@www.drop.org",
+      "homepage": null,
+      "subject": "Fair enough... and just a little more wild discussion.",
+      "url": "https://www.drupal.org/forum/general/news-and-announcements/2002-01-15/rethinking-drupals-meta-tags-beyond-version-3#comment-92",
+      "edit_url": "https://www.drupal.org/comment/edit/92",
+      "created": "1011320468",
+      "parent": {
+        "uri": "https://www.drupal.org/api-d7/comment/89",
+        "id": "89",
+        "resource": "comment"
+      },
+      "node": {
+        "uri": "https://www.drupal.org/api-d7/node/55",
+        "id": "55",
+        "resource": "node"
+      },
+      "author": {
+        "uri": "https://www.drupal.org/api-d7/user/15",
+        "id": "15",
+        "resource": "user"
+      },
+      "feeds_item_guid": null,
+      "feeds_item_url": null,
+      "feed_nid": null
+    },
+    {
+      "comment_body": {
+        "value": "\u003Cp\u003ENeat paper!  I\u0027ve just started reading it, but there are definitely strong similarities.   \u003C/p\u003E\n\u003Cp\u003EAs far as seperating the subject taxonomy from the bookmarks and keywords, I havn\u0027t formulated an opinion yet.  Though I do agree that in the DB they should be stored seperately.  \u003C/p\u003E\n\u003Cp\u003E\u003Ci\u003EReading maketh a full man, conference a ready man, and writing an exact man.\u003C/i\u003E - Francis Bacon\u003C/p\u003E",
+        "format": "1"
+      },
+      "cid": "93",
+      "name": "j0e@www.drop.org",
+      "homepage": null,
+      "subject": "You know your stuff!",
+      "url": "https://www.drupal.org/forum/general/news-and-announcements/2002-01-15/rethinking-drupals-meta-tags-beyond-version-3#comment-93",
+      "edit_url": "https://www.drupal.org/comment/edit/93",
+      "created": "1011321123",
+      "parent": {
+        "uri": "https://www.drupal.org/api-d7/comment/84",
+        "id": "84",
+        "resource": "comment"
+      },
+      "node": {
+        "uri": "https://www.drupal.org/api-d7/node/55",
+        "id": "55",
+        "resource": "node"
+      },
+      "author": {
+        "uri": "https://www.drupal.org/api-d7/user/15",
+        "id": "15",
+        "resource": "user"
+      },
+      "feeds_item_guid": null,
+      "feeds_item_url": null,
+      "feed_nid": null
+    },
+    {
+      "comment_body": {
+        "value": "\u003Cp\u003EI was thinking about this separation between a user\u0027s taxonomy and the administrator\u0027s (or global) taxonomy. What if a user can bookmark posts or assign keywords, and an administrator links these to the (static) global taxonomy. That way, the site taxonomy stays clean and uncluttered, a user can do whatever he wants with his own. This still places some burden on an administrator, but he doesn\u0027t have to categorize every new post, just every new category/keyword/section a user makes (assuming this happens less often than new posts...)\u003Cbr /\u003E\nor something like that... \u003Cimg src=\u0022/misc/watchdog-error.png\u0022 border=\u00220\u0022 alt=\u0022Only local images are allowed.\u0022 data-orig-src=\u0022/misc/smileys/wink.png\u0022 title=\u0022Only local images are allowed.\u0022 width=\u002218\u0022 height=\u002218\u0022 /\u003E\u003C/p\u003E\n\u003Cp\u003EYour ranking idea set me thinking. If you have different categories, you can have a certain value of how many times a post is put in a certain category. A post can belong \u0027more to this category than to that category\u0027. You can do some weird things with this. Maybe you could draw a \u0027map\u0027 with the different categories on it, and show the post located somewhere in between, closer to this one than that one... Or if you have only three categories, you apply an RGB color value to each post instead of subject headings \u003Cimg src=\u0022/misc/watchdog-error.png\u0022 border=\u00220\u0022 alt=\u0022Only local images are allowed.\u0022 data-orig-src=\u0022/misc/smileys/wink.png\u0022 title=\u0022Only local images are allowed.\u0022 width=\u002218\u0022 height=\u002218\u0022 /\u003E\u003C/p\u003E\n\u003Cp\u003Epolaar \u003C/p\u003E\n\u003Cp\u003EI know, I really should (have somenone) look into my account problem again\u003C/p\u003E",
+        "format": "1"
+      },
+      "cid": "94",
+      "name": null,
+      "homepage": null,
+      "subject": "users\u0027 sections",
+      "url": "https://www.drupal.org/forum/general/news-and-announcements/2002-01-15/rethinking-drupals-meta-tags-beyond-version-3#comment-94",
+      "edit_url": "https://www.drupal.org/comment/edit/94",
+      "created": "1011348051",
+      "parent": {
+        "uri": "https://www.drupal.org/api-d7/comment/92",
+        "id": "92",
+        "resource": "comment"
+      },
+      "node": {
+        "uri": "https://www.drupal.org/api-d7/node/55",
+        "id": "55",
+        "resource": "node"
+      },
+      "feeds_item_guid": null,
+      "feeds_item_url": null,
+      "feed_nid": null
+    },
+    {
+      "comment_body": {
+        "value": "\u003Cp\u003EI think you\u0027re all headed in a good direction. Seems like suggestions are: 1) keep global taxonomy and user subject headings/bookmarks separate, 2) allow moderator to map user headings to global taxonomy subject headings.\u003C/p\u003E\n\u003Cp\u003EThis is sort of like maintaining a controlled vocabulary with a thesaurus and then mapping the terms in the controlled vocabulary to a taxonomy. This is what we do where I work in the info. services group at Bell Labs. A bunch of IA\u0027s are struggling to understand what CV\u0027s, thesauri, taxonomies have to do with each other over at \u003Ca href=\u0022http://www.eleganthack.com/archives/002165.html#002165\u0022 rel=\u0022nofollow\u0022\u003EElegant Hack\u003C/a\u003E so don\u0027t feel like you\u0027re all alone in trying to grok this stuff, because that is basically what we\u0027re all sort of dancing around at the moment.\u003C/p\u003E\n\u003Cp\u003EPersonally, I think the user-contributed stuff is valuable, but the global taxonomy is a higher priority. A big question still remains, \u0022Will people categorize their stories?\u0022. I don\u0027t think this has been tested in the IR literature. I think we should all avoid that question in any case and just design what we think WE will want to use. Whether someone can code this is another issue. I wish had chosen Computer Science instead of Art History when I went to undergrad! Damnit \u003Cimg src=\u0022/misc/watchdog-error.png\u0022 border=\u00220\u0022 alt=\u0022Only local images are allowed.\u0022 data-orig-src=\u0022/misc/smileys/sad.png\u0022 title=\u0022Only local images are allowed.\u0022 width=\u002218\u0022 height=\u002218\u0022 /\u003E\u003C/p\u003E",
+        "format": "1"
+      },
+      "cid": "100",
+      "name": "jibbajabba",
+      "homepage": null,
+      "subject": "users\u0027 sections and wild discussion",
+      "url": "https://www.drupal.org/forum/general/news-and-announcements/2002-01-15/rethinking-drupals-meta-tags-beyond-version-3#comment-100",
+      "edit_url": "https://www.drupal.org/comment/edit/100",
+      "created": "1011360438",
+      "parent": {
+        "uri": "https://www.drupal.org/api-d7/comment/92",
+        "id": "92",
+        "resource": "comment"
+      },
+      "node": {
+        "uri": "https://www.drupal.org/api-d7/node/55",
+        "id": "55",
+        "resource": "node"
+      },
+      "author": {
+        "uri": "https://www.drupal.org/api-d7/user/58",
+        "id": "58",
+        "resource": "user"
+      },
+      "feeds_item_guid": null,
+      "feeds_item_url": null,
+      "feed_nid": null
+    },
+    {
+      "comment_body": {
+        "value": "\u003Cp\u003EI find the meta-tag and related conversations hard to follow as some terms are just dumped on you and not explained in detail. I am good at english, but some of the words used are just beyond my imediate knowledge so I end up using a dictionary at times. Also I am more into how to get something to work at the moment. So I think in terms of this is what they want, now how do I code it. Which in this discussion is a dissadvatage.\u003C/p\u003E\n\u003Cp\u003EAt some point someone should do a summary for normal people to understand. We also have to have some terms that anyone can understand. I don\u0027t think using \u0022global taxonomy\u0022 in a user interface will have the users categorize the content \u003Cimg src=\u0022/misc/watchdog-error.png\u0022 border=\u00220\u0022 alt=\u0022Only local images are allowed.\u0022 data-orig-src=\u0022/misc/smileys/wink.png\u0022 title=\u0022Only local images are allowed.\u0022 width=\u002218\u0022 height=\u002218\u0022 /\u003E\u003C/p\u003E\n\u003Cp\u003E--\u003Cbr /\u003E\nKjartan\u003C/p\u003E",
+        "format": "1"
+      },
+      "cid": "101",
+      "name": "Kjartan",
+      "homepage": null,
+      "subject": "Explaining things",
+      "url": "https://www.drupal.org/forum/general/news-and-announcements/2002-01-15/rethinking-drupals-meta-tags-beyond-version-3#comment-101",
+      "edit_url": "https://www.drupal.org/comment/edit/101",
+      "created": "1011361817",
+      "parent": {
+        "uri": "https://www.drupal.org/api-d7/comment/100",
+        "id": "100",
+        "resource": "comment"
+      },
+      "node": {
+        "uri": "https://www.drupal.org/api-d7/node/55",
+        "id": "55",
+        "resource": "node"
+      },
+      "author": {
+        "uri": "https://www.drupal.org/api-d7/user/2",
+        "id": "2",
+        "resource": "user"
+      },
+      "feeds_item_guid": null,
+      "feeds_item_url": null,
+      "feed_nid": null
+    },
+    {
+      "comment_body": {
+        "value": "\u003Cp\u003E\u003Ci\u003EThis is sort of like maintaining a controlled vocabulary with a thesaurus and then mapping the terms in the controlled vocabulary to a taxonomy.\u003C/i\u003E\u003Cbr /\u003E\ner... yes, that\u0027s it... I think... \u003Cimg src=\u0022/misc/watchdog-error.png\u0022 border=\u00220\u0022 alt=\u0022Only local images are allowed.\u0022 data-orig-src=\u0022/misc/smileys/smile.png\u0022 title=\u0022Only local images are allowed.\u0022 width=\u002218\u0022 height=\u002218\u0022 /\u003E\u003Cbr /\u003E\n\u003Ci\u003EA big question still remains, \u0022Will people categorize their stories?\u0022. ... I think we should all avoid that question in any case and just design what we think WE will want to use.\u003C/i\u003E\u003Cbr /\u003E\nDamn, just when I wanted to ask this question... \u003Cimg src=\u0022/misc/watchdog-error.png\u0022 border=\u00220\u0022 alt=\u0022Only local images are allowed.\u0022 data-orig-src=\u0022/misc/smileys/wink.png\u0022 title=\u0022Only local images are allowed.\u0022 width=\u002218\u0022 height=\u002218\u0022 /\u003E\u003Cbr /\u003E\nI guess if you really want this it would be a good idea to implement it in different steps/separate modules.\u003Cbr /\u003E\nStep 1: global taxonomy system: get this working without the other stuff and you have the most urgent issue fixed\u003Cbr /\u003E\nStep 2: user bookmarks: give users the ability to \u0027bookmark\u0027 or organize posts (independant from the global taxonomy, or even if the site doesn\u0027t use a global taxonomy: as an extra feature for the users)\u003Cbr /\u003E\nStep 3: find a means of linking the two together\u003C/p\u003E\n\u003Cp\u003EI don\u0027t know if this is easy to do, but it would offer a lot of flexibility and doesn\u0027t stand in the way of being realistic and getting meta/sections/subject classification back up as soon as possible.\u003C/p\u003E\n\u003Cp\u003EUnfortunately, I\u0027m even worse than you and don\u0027t even know a litttle PHP \u003Cimg src=\u0022/misc/watchdog-error.png\u0022 border=\u00220\u0022 alt=\u0022Only local images are allowed.\u0022 data-orig-src=\u0022/misc/smileys/sad.png\u0022 title=\u0022Only local images are allowed.\u0022 width=\u002218\u0022 height=\u002218\u0022 /\u003E\u003C/p\u003E",
+        "format": "1"
+      },
+      "cid": "102",
+      "name": "polaar@www.drop.org",
+      "homepage": null,
+      "subject": "section discussion and wild users",
+      "url": "https://www.drupal.org/forum/general/news-and-announcements/2002-01-15/rethinking-drupals-meta-tags-beyond-version-3#comment-102",
+      "edit_url": "https://www.drupal.org/comment/edit/102",
+      "created": "1011362906",
+      "parent": {
+        "uri": "https://www.drupal.org/api-d7/comment/100",
+        "id": "100",
+        "resource": "comment"
+      },
+      "node": {
+        "uri": "https://www.drupal.org/api-d7/node/55",
+        "id": "55",
+        "resource": "node"
+      },
+      "author": {
+        "uri": "https://www.drupal.org/api-d7/user/39",
+        "id": "39",
+        "resource": "user"
+      },
+      "feeds_item_guid": null,
+      "feeds_item_url": null,
+      "feed_nid": null
+    }
+  ]
+}
