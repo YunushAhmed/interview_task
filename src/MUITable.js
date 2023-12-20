@@ -46,8 +46,16 @@ const MUITable = () => {
             {comments.map((comment) => (
               <TableRow key={comment.cid}>
                  <TableCell>
-                  <div dangerouslySetInnerHTML={{ __html: comment.comment_body?.value || 'null' }} />
-                </TableCell>
+                  <div style={{
+                    maxHeight: '100px',
+                    maxWidth: '400px',
+                    overflowY: comment.comment_body?.value ? 'auto' : 'hidden',
+                    overflowX: comment.comment_body?.value ? 'auto' : 'hidden',
+                    // I have used whiteSpace: 'nowrap' to enable horizontal scrolling but it would look good if we remove this and let the text
+                    // be wrapped and use only vertical scroll
+                    whiteSpace: 'nowrap'
+                  }} dangerouslySetInnerHTML={{ __html: comment.comment_body?.value || 'null' }} />
+                </TableCell>
                 <TableCell>{comment.name || 'null'}</TableCell>
                 <TableCell>{comment.node?.uri || 'null'}</TableCell>
                 <TableCell>{comment.author?.uri || 'null'}</TableCell>

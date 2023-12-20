@@ -3,24 +3,44 @@ import Button from '@mui/material/Button';
 import TextField from '@mui/material/TextField';
 import Typography from '@mui/material/Typography';
 
-const UnityRoot = () => {
-  const [inputNumber, setInputNumber] = useState('');
-  const [unityRoot, setUnityRoot] = useState(null);
-
-  const calculateUnityRoot = () => {
-    const digits = inputNumber.split('').map(Number);
-
-    let result = digits.reduce((acc, curr) => acc + curr, 0);
-    while (result >= 10) {
-      result = result
-        .toString()
-        .split('')
-        .map(Number)
-        .reduce((acc, curr) => acc + curr, 0);
-    }
-
-    setUnityRoot(result);
-  };
+  const UnityRoot = () => {
+    const [inputNumber, setInputNumber] = useState('');
+    const [unityRoot, setUnityRoot] = useState(null);
+  
+    const calculateUnityRoot = () => {
+      // Split the input into integer and decimal parts
+      const [integerPart, decimalPart] = inputNumber.split('.');
+  
+      // Calculate the unity root for the integer part
+      const integerDigits = integerPart.split('').map(Number);
+      let result = integerDigits.reduce((acc, curr) => acc + curr, 0);
+      
+      while (result >= 10) {
+        result = result
+          .toString()
+          .split('')
+          .map(Number)
+          .reduce((acc, curr) => acc + curr, 0);
+      }
+  
+      // Add the unity root of the decimal part
+      if (decimalPart) {
+        const decimalDigits = decimalPart.split('').map(Number);
+        const decimalRoot = decimalDigits.reduce((acc, curr) => acc + curr, 0);
+        result += decimalRoot;
+      }
+  
+      // Ensure the final result is between 0 and 9
+      while (result >= 10) {
+        result = result
+          .toString()
+          .split('')
+          .map(Number)
+          .reduce((acc, curr) => acc + curr, 0);
+      }
+  
+      setUnityRoot(result);
+    };
 
   return (
     <div style={{ textAlign: 'center', marginTop: '50px' }}>
